@@ -35,12 +35,17 @@ p {
 }
 #box-1 {
   background-color: hsl(31, 77%, 52%);
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+        
 }
 #box-2 {
   background-color: hsl(184, 100%, 22%);
 }
 #box-3 {
   background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
 button {
   border: none;
