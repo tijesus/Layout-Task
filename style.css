@@ -59,6 +59,11 @@ button {
   position: absolute;
   bottom: 0;
 }
+button:hover {
+  background-color: aquamarine;
+  color: white;
+  transition-delay: .2s;
+}
 .btn1 {
   color: hsl(31, 77%, 52%);
 }
